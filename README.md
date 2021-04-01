@@ -1,9 +1,10 @@
-react_redux_saga
-app-with-react-redux-saga
+# react_redux_saga
 
-# Getting Started with Create React App
+# app-with-react-redux-saga
 
-## Available Scripts
+## Getting Started with Create React App
+
+### Available Scripts
 
 ### `npm start`
 
