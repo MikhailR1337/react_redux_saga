@@ -2,8 +2,9 @@ import React from 'react';
 
 export const Loader = () => {
     return (
-        <div className="spinner-grow text-primary" role="status">
-            <span className="visually-hidden">Загрузка...</span>
-        </div>
+        <button class="btn btn-primary" type="button" disabled>
+            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true" />
+            Загрузка...
+        </button>
     )
 }
