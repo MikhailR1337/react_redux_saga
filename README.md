@@ -1,2 +1,28 @@
-# react_redux_saga
+react_redux_saga
 app-with-react-redux-saga
+
+# Getting Started with Create React App
+
+## Available Scripts
+
+### `npm start`
+
+### `npm test`
+
+### `npm run build`
+
+### `npm run eject`
+
+## Learn More
+
+### Code Splitting
+
+### Analyzing the Bundle Size
+
+### Making a Progressive Web App
+
+### Advanced Configuration
+
+### Deployment
+
+### `npm run build` fails to minify
